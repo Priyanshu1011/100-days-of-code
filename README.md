@@ -12,3 +12,13 @@
 *Link(s):*
 https://github.com/Priyanshu1011/Drum-Kit
 
+### Day 2: 29 July, Friday
+
+*My Progress:*<br>
+- Learnt how to manipulate style, text and attributes with jQuery
+- Learnt how to add event listeners, adding/removing elements and animations
+
+*Link(s):*
+https://github.com/Priyanshu1011/jQuery
+
+
