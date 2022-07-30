@@ -21,4 +21,11 @@ https://github.com/Priyanshu1011/Drum-Kit
 *Link(s):*
 https://github.com/Priyanshu1011/jQuery
 
+### Day 3: 30 July, Saturday
 
+*My Progress:*<br>
+- Started with a new project: The Simon Game
+- Added the HTML and CSS for the website
+
+*Link(s):*
+https://github.com/Priyanshu1011/The-Simon-Game
