@@ -29,3 +29,15 @@ https://github.com/Priyanshu1011/jQuery
 
 *Link(s):*
 https://github.com/Priyanshu1011/The-Simon-Game
+
+### Day 4: 31 July, Sunday
+
+*My Progress:*<br>
+- Continued with the project: The Simon Game
+- Added some button animations using JS and jQuery for the website
+
+*Link(s):*
+https://github.com/Priyanshu1011/The-Simon-Game
+
+
+
