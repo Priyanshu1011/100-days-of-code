@@ -39,5 +39,12 @@ https://github.com/Priyanshu1011/The-Simon-Game
 *Link(s):*
 https://github.com/Priyanshu1011/The-Simon-Game
 
+### Day 5: 1 August, Monday
 
+*My Progress:*<br>
+- Made some changes to the CSS of the project
+- Rewrote some JS to choose a random colour, play button audio and handle click events
+
+*Link(s):*
+https://github.com/Priyanshu1011/The-Simon-Game
 
