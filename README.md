@@ -55,7 +55,7 @@ https://github.com/Priyanshu1011/The-Simon-Game
 - Completed the Simon Game
 
 *Link(s):*
-https://priyanshu1011.github.io/The-Simon-Game/
+https://priyanshu1011.github.io/The-Simon-Game/ <br>
 https://github.com/Priyanshu1011/The-Simon-Game
 
 
