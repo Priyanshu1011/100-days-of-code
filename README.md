@@ -48,3 +48,15 @@ https://github.com/Priyanshu1011/The-Simon-Game
 *Link(s):*
 https://github.com/Priyanshu1011/The-Simon-Game
 
+### Day 6: 2 August, Tuesday
+
+*My Progress:*<br>
+- Refactored the code for checking the sequence of button clicks, added levels in the game
+- Completed the Simon Game
+
+*Link(s):*
+https://priyanshu1011.github.io/The-Simon-Game/
+https://github.com/Priyanshu1011/The-Simon-Game
+
+
+
