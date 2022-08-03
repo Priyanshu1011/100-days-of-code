@@ -58,5 +58,13 @@ https://github.com/Priyanshu1011/The-Simon-Game
 https://priyanshu1011.github.io/The-Simon-Game/ <br>
 https://github.com/Priyanshu1011/The-Simon-Game
 
+### Day 7: 3 August, Wednesday
 
+*My Progress:*<br>
+- Started making a new website: SipCan
+- Edited the images required
+- Made the navbar, few sections & the footer using HTML, CSS & Bootstrap
+
+*Link(s):*
+https://github.com/Priyanshu1011/SipCan
 
