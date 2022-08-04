@@ -76,7 +76,7 @@ https://github.com/Priyanshu1011/SipCan
 - Added image and bubble animations
 
 *Link(s):*
-https://github.com/Priyanshu1011/SipCan
+https://github.com/Priyanshu1011/SipCan <br>
 https://priyanshu1011.github.io/SipCan/
 
 
