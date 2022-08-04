@@ -68,3 +68,17 @@ https://github.com/Priyanshu1011/The-Simon-Game
 *Link(s):*
 https://github.com/Priyanshu1011/SipCan
 
+### Day 8: 4 August, Thursday
+
+*My Progress:*<br>
+- Changed the layout of images and text in SipCan
+- Added color gradients and text colors
+- Added image and bubble animations
+
+*Link(s):*
+https://github.com/Priyanshu1011/SipCan
+https://priyanshu1011.github.io/SipCan/
+
+
+
+
