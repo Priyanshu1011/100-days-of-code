@@ -79,6 +79,15 @@ https://github.com/Priyanshu1011/SipCan
 https://github.com/Priyanshu1011/SipCan <br>
 https://priyanshu1011.github.io/SipCan/
 
+### Day 9: 5 August, Friday
 
+*My Progress:*<br>
+- Changed animation of images & text in SipCan
+- Added scrollbar animations, 3D text, zoom-in effects on hover
+- Completed SipCan!
+
+*Link(s):*
+https://github.com/Priyanshu1011/SipCan <br>
+https://priyanshu1011.github.io/SipCan
 
 
