@@ -90,4 +90,11 @@ https://priyanshu1011.github.io/SipCan/
 https://github.com/Priyanshu1011/SipCan <br>
 https://priyanshu1011.github.io/SipCan
 
+### Day 10: 6 August, Saturday
+
+*My Progress:*<br>
+- Added a favicon to SipCan
+- Went through the MDN documentation of HTML and learnt about few more elements
+
+
 
