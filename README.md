@@ -96,5 +96,8 @@ https://priyanshu1011.github.io/SipCan
 - Added a favicon to SipCan
 - Went through the MDN documentation of HTML and learnt about few more elements
 
+### Day 11: 7 August, Sunday
 
+*My Progress:*<br>
+- MDN documentation for HTML and CSS
 
