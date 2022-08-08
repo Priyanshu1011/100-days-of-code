@@ -101,3 +101,11 @@ https://priyanshu1011.github.io/SipCan
 *My Progress:*<br>
 - MDN documentation for HTML and CSS
 
+### Day 12: 8 August, Monday
+
+*My Progress:*<br>
+- MDN documentation for CSS
+(was busy travelling today)
+
+
+
