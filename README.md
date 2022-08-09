@@ -107,5 +107,11 @@ https://priyanshu1011.github.io/SipCan
 - MDN documentation for CSS
 (was busy travelling today)
 
+### Day 13: 9 August, Tuesday
+
+*My Progress:*<br>
+- Revised some JavaScript events
+
+
 
 
