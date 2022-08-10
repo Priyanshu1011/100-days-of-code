@@ -112,6 +112,9 @@ https://priyanshu1011.github.io/SipCan
 *My Progress:*<br>
 - Revised some JavaScript events
 
+### Day 14: 10 August, Wednesday
 
+*My Progress:*<br>
+- Started learning about the Hyper Terminal
 
 
