@@ -117,4 +117,10 @@ https://priyanshu1011.github.io/SipCan
 *My Progress:*<br>
 - Started learning about the Hyper Terminal
 
+### Day 15: 11 August, Thursday
+
+*My Progress:*<br>
+- Learnt directory navigation and create, open and delete operations in the Hyper Terminal
+- Learnt the basics of Java
+
 
