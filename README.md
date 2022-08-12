@@ -123,4 +123,13 @@ https://priyanshu1011.github.io/SipCan
 - Learnt directory navigation and create, open and delete operations in the Hyper Terminal
 - Learnt the basics of Java
 
+### Day 16: 12 August, Friday
+
+*My Progress:*<br>
+- Went through JS documentation
+
+
+
+
+
 
