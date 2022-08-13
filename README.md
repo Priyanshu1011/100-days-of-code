@@ -128,7 +128,10 @@ https://priyanshu1011.github.io/SipCan
 *My Progress:*<br>
 - Went through JS documentation
 
+### Day 17: 13 August, Saturday
 
+*My Progress:*<br>
+- Practiced a few questions in Java
 
 
 
