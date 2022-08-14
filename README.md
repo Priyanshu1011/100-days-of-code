@@ -133,6 +133,9 @@ https://priyanshu1011.github.io/SipCan
 *My Progress:*<br>
 - Practiced a few questions in Java
 
+### Day 18: 14 August, Sunday
 
+*My Progress:*<br>
+- Revised jQuery
 
 
