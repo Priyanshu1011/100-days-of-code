@@ -138,4 +138,13 @@ https://priyanshu1011.github.io/SipCan
 *My Progress:*<br>
 - Revised jQuery
 
+### Day 19: 15 August, Monday
+
+*My Progress:*<br>
+- Revised JS
+
+*Link(s):*
+https://github.com/Priyanshu1011/Practising-JavaScript
+
+
 
