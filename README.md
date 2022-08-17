@@ -151,5 +151,8 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - Introduction to Backend Web Development
 
+### Day 21: 17 August, Wednesday
 
+*My Progress:*<br>
+- Started learning Node.js
 
