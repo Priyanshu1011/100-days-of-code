@@ -156,3 +156,11 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - Started learning Node.js
 
+### Day 22: 18 August, Thursday
+
+*My Progress:*<br>
+- Learnt about Node REPL, native Node modules and NPM Package Manager
+
+
+
+
