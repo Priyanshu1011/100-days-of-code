@@ -166,5 +166,11 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - Started learning Express.js
 
+### Day 24: 20 August, Saturday
+
+*My Progress:*<br>
+- Learnt creating a server, handling GET requests
+- Setting up different routes
+
 
 
