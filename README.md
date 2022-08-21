@@ -172,5 +172,10 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 - Learnt creating a server, handling GET requests
 - Setting up different routes
 
+### Day 25: 21 August, Sunday
+
+*My Progress:*<br>
+- Working with different routes in a server
+
 
 
