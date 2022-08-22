@@ -178,4 +178,9 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 - Working with different routes in a server
 
 
+### Day 26: 22 August, Monday
+
+*My Progress:*<br>
+- Used nodemon to run the server
+- Responding to requests with HTML files
 
