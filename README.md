@@ -177,10 +177,15 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - Working with different routes in a server
 
-
 ### Day 26: 22 August, Monday
 
 *My Progress:*<br>
 - Used nodemon to run the server
 - Responding to requests with HTML files
+
+### Day 27: 23 August, Tuesday
+
+*My Progress:*<br>
+- Processing Post requests
+
 
