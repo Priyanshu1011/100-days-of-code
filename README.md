@@ -188,4 +188,16 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - Processing Post requests
 
+### Day 28: 24 August, Wednesday
+
+*My Progress:*<br>
+- Created a BMI Calculator using HTML forms and a server
+- Introduction to APIs
+
+
+
+
+
+
+
 
