@@ -194,7 +194,10 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 - Created a BMI Calculator using HTML forms and a server
 - Introduction to APIs
 
+### Day 29: 25 August, Thursday
 
+*My Progress:*<br>
+- Learnt about API endpoints, paths and parameters
 
 
 
