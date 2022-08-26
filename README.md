@@ -199,7 +199,11 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - Learnt about API endpoints, paths and parameters
 
+### Day 30: 26 August, Friday
 
+*My Progress:*<br>
+- Learnt about API Authentication
+- Started using Postman API Platform, OpenWeather API
 
 
 
