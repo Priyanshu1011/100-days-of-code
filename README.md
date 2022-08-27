@@ -205,6 +205,18 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 - Learnt about API Authentication
 - Started using Postman API Platform, OpenWeather API
 
+### Day 31: 27 August, Saturday
+
+*My Progress:*<br>
+- Learnt about JSON
+- Used the Node HTTPS module for making GET requests
+
+
+
+
+
+
+
 
 
 
