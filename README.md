@@ -212,7 +212,10 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 - Used the Node HTTPS module for making GET requests
 
 
+### Day 32: 28 August, Sunday
 
+*My Progress:*<br>
+- Learnt how to parse JSON
 
 
 
