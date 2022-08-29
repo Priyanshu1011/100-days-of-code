@@ -217,7 +217,10 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - Learnt how to parse JSON
 
+### Day 33: 29 August, Monday
 
+*My Progress:*<br>
+- Learnt how to use Live API data in a website
 
 
 
