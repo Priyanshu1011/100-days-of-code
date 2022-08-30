@@ -222,7 +222,10 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - Learnt how to use Live API data in a website
 
+### Day 34: 30 August, Tuesday
 
+*My Progress:*<br>
+- Parsing POST requests to the server
 
 
 
