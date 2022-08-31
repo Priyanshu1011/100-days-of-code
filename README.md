@@ -227,5 +227,8 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - Parsing POST requests to the server
 
+### Day 35: 31 August, Wednesday
 
+*My Progress:*<br>
+- Started with MailChimp API to make an email newsletter website
 
