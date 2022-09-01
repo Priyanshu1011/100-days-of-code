@@ -232,3 +232,18 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - Started with MailChimp API to make an email newsletter website
 
+### Day 36: 1 September, Thursday
+
+*My Progress:*<br>
+- Started with the signup page of the email newsletter website
+
+
+
+
+
+
+
+
+
+
+
