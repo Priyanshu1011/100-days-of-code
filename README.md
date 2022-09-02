@@ -237,7 +237,11 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - Started with the signup page of the email newsletter website
 
+### Day 37: 2 September, Friday
 
+*My Progress:*<br>
+- Completed signup page
+- Posted data to Mailchimp server via their API
 
 
 
