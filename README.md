@@ -243,6 +243,18 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 - Completed signup page
 - Posted data to Mailchimp server via their API
 
+### Day 38: 3 September, Saturday
+
+*My Progress:*<br>
+- Added success and failure pages to Newsletter signup website
+
+
+
+
+
+
+
+
 
 
 
