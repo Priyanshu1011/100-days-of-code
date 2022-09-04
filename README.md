@@ -249,6 +249,11 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 - Added success and failure pages to Newsletter signup website
 
 
+### Day 39: 4 September, Sunday
+
+*My Progress:*<br>
+- Started learning DSA: Flowchart, pseudocode, basics of C++
+- Deployed the server for Newsletter signup page with Heroku
 
 
 
