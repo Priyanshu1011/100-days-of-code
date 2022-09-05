@@ -248,14 +248,17 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - Added success and failure pages to Newsletter signup website
 
-
 ### Day 39: 4 September, Sunday
 
 *My Progress:*<br>
 - Started learning DSA: Flowchart, pseudocode, basics of C++
 - Deployed the server for Newsletter signup page with Heroku
 
+### Day 40: 5 September, Monday
 
+*My Progress:*<br>
+- DSA: Conditional statement, Looping statements
+- Some Qs based on patterns
 
 
 
