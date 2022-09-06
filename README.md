@@ -260,7 +260,10 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 - DSA: Conditional statement, Looping statements
 - Some Qs based on patterns
 
+### Day 41: 6 September, Tuesday
 
+*My Progress:*<br>
+- DSA: Bitwise operators, precedence, scope of variables
 
 
 
