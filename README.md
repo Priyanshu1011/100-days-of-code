@@ -265,7 +265,10 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - DSA: Bitwise operators, precedence, scope of variables
 
+### Day 42: 7 September, Wednesday
 
+*My Progress:*<br>
+- DSA: Binary and Decimal number systems
 
 
 
