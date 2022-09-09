@@ -275,7 +275,10 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - DSA: Switch case statements and functions
 
+### Day 44: 9 September, Friday
 
+*My Progress:*<br>
+- DSA: Introduction to arrays
 
 
 
