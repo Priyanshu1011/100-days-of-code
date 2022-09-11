@@ -285,7 +285,10 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - DSA: Time and Space complexity
 
+### Day 46: 11 September, Sunday
 
+*My Progress:*<br>
+- DSA: Binary Search
 
 
 
