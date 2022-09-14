@@ -290,7 +290,10 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - DSA: Binary Search
 
+### Day 47: 14 September, Wednesday
 
+*My Progress:*<br>
+- DSA: Bubble sort, Selection sort, Insertion sort
 
 
 
