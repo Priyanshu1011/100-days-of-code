@@ -295,7 +295,10 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - DSA: Bubble sort, Selection sort, Insertion sort
 
+### Day 48: 16 September, Thursday
 
+*My Progress:*<br>
+- DSA: C++ STL
 
 
 
