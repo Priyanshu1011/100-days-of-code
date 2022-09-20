@@ -305,4 +305,11 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - DSA: Practicing some problems
 
+### Day 50: 20 September, Tuesday
+
+*My Progress:*<br>
+- DSA: Practiced a problem
+
+
+
 
