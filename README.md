@@ -310,6 +310,17 @@ https://github.com/Priyanshu1011/Practising-JavaScript
 *My Progress:*<br>
 - DSA: Practiced a problem
 
+### Day 51: 21 September, Wednesday
+
+*My Progress:*<br>
+- DSA: Practiced a problem - Easy Pronounciation
+
+
+
+
+
+
+
 
 
 
